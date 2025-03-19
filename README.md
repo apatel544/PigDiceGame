@@ -12,4 +12,8 @@
         <li> The first player to reach a score of 100 will win the game!</li>
         <li>Good Luck and Have Fun! </li>
       </ul>
-    </header>
+      <h4>Ready to play? Let's go, click the link below</h4>
+</header>
+
+[Play Game](https://apatel544.github.io/PigDiceGame/)
+
